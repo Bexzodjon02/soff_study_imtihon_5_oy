@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgba(234, 234, 234, 1)!important;
+}
+.header{
+    width: 1280px;
+    height: 250px;
+    border-radius: 30px;
+    background: 
+    rgba(16, 16, 16, 1);
+    /* margin: 0 auto; */
+}
+.head{
+    margin: 0 auto;
+}
+.card{
+    border-radius: 30px !important;
+    width: 400px;
+}
+.text{
+    color: #fff;
+    width: 300px;
+}
+.images{
+    width: 170px;
+    text-align: center;
+    margin-left: 27%;
+}
+.input{
+    font-size: 20px;
+}
+.btn{
+    font-size: 20px;
+}
+.yurak{
+    /* width: 100px; */
+    background: red;
+}
+.footer{
+    width: 1280px;
+    height: 250px;
+    border-radius: 30px;
+    background:  rgba(255, 255, 255, 1)
+}
